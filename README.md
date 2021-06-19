@@ -1,6 +1,4 @@
-Gaming data analysis
-
-Analyzed data of a game called "Heroes of Pymoli" using the Pandas Library and Jupyter Notebook. Generated a report that includes:
+Analyzed data of a game called "Heroes of Pymoli" using the Pandas Library and Jupyter Notebook. Generated a report on player count, gender & age demographics, purchase analytics, and most popular & profitable items purchased.
 
 Player Count:
 * Total Number of Players
